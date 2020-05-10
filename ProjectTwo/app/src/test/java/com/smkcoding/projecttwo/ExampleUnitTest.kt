@@ -1,4 +1,4 @@
-package com.smkcoding.mainactivity
+package com.smkcoding.projecttwo
 
 import org.junit.Test
 

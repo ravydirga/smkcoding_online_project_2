@@ -1,4 +1,4 @@
-package com.smkcoding.mainactivity
+package com.smkcoding.projecttwo
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.smkcoding.mainactivity", appContext.packageName)
+        assertEquals("com.smkcoding.projecttwo", appContext.packageName)
     }
 }

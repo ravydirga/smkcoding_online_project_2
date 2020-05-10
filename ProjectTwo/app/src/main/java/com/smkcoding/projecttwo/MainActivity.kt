@@ -1,4 +1,4 @@
-package com.smkcoding.mainactivity
+package com.smkcoding.projecttwo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
